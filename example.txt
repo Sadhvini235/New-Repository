@@ -1,3 +1,4 @@
 This is a sample text file for the GitHub assignment.
 It demonstrates how to create a repository, make changes, and use branches.
 Edit this file and commit the changes as part of the assignment.
+Create and switch to a new branch
